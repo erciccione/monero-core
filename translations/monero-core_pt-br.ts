@@ -1157,7 +1157,7 @@ O cache da carteira antiga será renomeado e poderá ser restaurado depois.
     <message>
         <location filename="../pages/Settings.qml" line="372"/>
         <source>Stop Local Node</source>
-        <translation>Para nó local</translation>
+        <translation>Parar nó local</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="450"/>
