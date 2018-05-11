@@ -743,7 +743,7 @@
     <message>
         <location filename="../components/ProgressBar.qml" line="38"/>
         <source>%1 blocks remaining: </source>
-        <translation>%1 blocos restantes: </translation>
+        <translation>Blocos restantes para %1: </translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="70"/>
