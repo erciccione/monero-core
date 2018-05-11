@@ -666,12 +666,12 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="52"/>
         <source>Invalid connection status</source>
-        <translation>Status de conexão inválido</translation>
+        <translation>Estado de conexão inválido</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="102"/>
         <source>Network status</source>
-        <translation>Status da rede</translation>
+        <translation>Estado da rede</translation>
     </message>
 </context>
 <context>
@@ -954,7 +954,7 @@
     <message>
         <location filename="../pages/Settings.qml" line="382"/>
         <source>Show status</source>
-        <translation>Mostrar status</translation>
+        <translation>Mostrar estado</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="412"/>
