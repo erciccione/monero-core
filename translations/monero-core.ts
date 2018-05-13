@@ -6,7 +6,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="50"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>indirizzo</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="56"/>
